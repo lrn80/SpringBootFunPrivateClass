@@ -1,4 +1,4 @@
-package com.lrn.springboot;
+package com.lrn.springboot.config;
 
 import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Configurable;

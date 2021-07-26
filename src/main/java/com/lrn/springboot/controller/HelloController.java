@@ -1,4 +1,4 @@
-package com.lrn.springboot;
+package com.lrn.springboot.controller;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiParam;

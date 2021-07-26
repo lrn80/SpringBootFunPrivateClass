@@ -1,5 +1,6 @@
-package com.lrn.springboot;
+package com.lrn.springboot.controller;
 
+import com.lrn.springboot.model.User;
 import io.swagger.annotations.Api;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
